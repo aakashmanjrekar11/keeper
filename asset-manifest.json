@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/keeper/static/js/main.ccf8157a.js",
+    "static/media/css-icon.png": "/keeper/static/media/css-icon.c9980ed3e900bd6bde08.png",
+    "static/media/react-icon.png": "/keeper/static/media/react-icon.20ec11c4799854e3803d.png",
+    "static/media/html-icon.png": "/keeper/static/media/html-icon.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/js-icon.png": "/keeper/static/media/js-icon.3abb3de3f1e1d537ad2e.png",
+    "index.html": "/keeper/index.html",
+    "main.ccf8157a.js.map": "/keeper/static/js/main.ccf8157a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ccf8157a.js"
+  ]
+}
